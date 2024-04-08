@@ -471,7 +471,8 @@
       height: 170px !important;
     }
     .pagination{
-      margin-top:8em ;
+      margin-top: 180px;
+      overflow: hidden;
     }
     .form{
       width: 300px;
