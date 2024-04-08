@@ -470,14 +470,7 @@
     .caro{
       height: 170px !important;
     }
-    .pagination{
-      margin-top: 208px !important;
-      overflow: hidden !important;
-    }
-    .pagination li{
-      width: 3em !important;
-      height: auto !important;
-    }
+    
     .form{
       width: 300px;
     }
