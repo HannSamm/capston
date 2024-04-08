@@ -397,7 +397,7 @@
     }
   }
   
-  @media (max-width: 480px) {
+  @media (max-width: 350px) {
     .modal-fullscreen-sm-down {
       width: 100vw;
       max-width: none;
@@ -469,6 +469,9 @@
     }
     .caro{
       height: 170px !important;
+    }
+    .pagination{
+      margin-top:8em ;
     }
     .form{
       width: 300px;
