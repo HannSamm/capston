@@ -397,7 +397,7 @@
     }
   }
   
-  @media (max-width: 360px) {
+  @media (max-width: 280px) {
     .modal-fullscreen-sm-down {
       width: 100vw;
       max-width: none;
@@ -420,60 +420,60 @@
       text-align: center;
       top: 8em;
       left: 5px;
+      font-size: 12px; /* Adjust font size for smaller screens */
     }
-    .carousel-inner{
-      height: 500px !important;
+    .carousel-inner {
+      height: 400px !important; /* Adjust height for smaller screens */
     }
     .titolo {
-      font-size: 30px !important; 
+      font-size: 20px !important; /* Adjust font size for smaller screens */
     }
-    
     .sipaway {
-      font-size: 14px !important ;
+      font-size: 10px !important; /* Adjust font size for smaller screens */
     }
     .resort-text button {
       width: 45% !important;
       margin: 1% !important;
+      font-size: 10px !important; /* Adjust font size for smaller screens */
     }
     .entrances {
-      margin-top: 14em !important;
-      width: 300px !important;
-      height: 180px !important;
+      margin-top: 10em !important; /* Adjust margin for smaller screens */
+      width: 260px !important; /* Adjust width for smaller screens */
+      height: 150px !important; /* Adjust height for smaller screens */
     }
-    .buton{
+    .buton {
       display: flex;
     }
-    .buton button{
+    .buton button {
       height: 30px !important;
       padding-bottom: 1em !important;
     }
-    .buton button b{
-      font-size: 13px !important;
+    .buton button b {
+      font-size: 9px !important; /* Adjust font size for smaller screens */
       margin-bottom: 2px !important;
     }
-    .entrance{
+    .entrance {
       display: flex;
       text-align: center !important;
     }
-    .entrance button{
-     
-      height: 40px !important;
+    .entrance button {
+      height: 30px !important; /* Adjust height for smaller screens */
     }
-    .entrance button b{
+    .entrance button b {
       text-align: justify !important;
-      font-size: 11px !important;
+      font-size: 9px !important; /* Adjust font size for smaller screens */
     }
-    .age p{
-      font-size: 11px !important;
+    .age p {
+      font-size: 9px !important; /* Adjust font size for smaller screens */
     }
-    .caro{
-      height: 170px !important;
+    .caro {
+      height: 130px !important; /* Adjust height for smaller screens */
     }
-    .form{
-      width: 300px !important;
+    .form {
+      width: 260px !important; /* Adjust width for smaller screens */
     }
-   
   }
+  
   
   
   @media (max-width: 767.98px) {
