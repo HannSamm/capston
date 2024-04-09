@@ -473,6 +473,9 @@
     .form{
       width: 300px;
     }
+     .pagination{
+      overflow: hidden !important;
+    }
   }
   
   
