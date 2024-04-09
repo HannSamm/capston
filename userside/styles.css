@@ -397,7 +397,7 @@
     }
   }
   
-  @media (max-width: 208px) {
+  @media (max-width: 400px) {
     .modal-fullscreen-sm-down {
       width: 100vw;
       max-width: none;
@@ -470,7 +470,6 @@
     .caro{
       height: 170px !important;
     }
-    
     .form{
       width: 300px;
     }
