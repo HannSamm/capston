@@ -397,7 +397,7 @@
     }
   }
   
-  @media (max-width: 350px) {
+  @media (max-width: 208px) {
     .modal-fullscreen-sm-down {
       width: 100vw;
       max-width: none;
